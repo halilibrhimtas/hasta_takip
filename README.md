@@ -1,4 +1,4 @@
-# proje_1_hasta_takip
+# hasta_takip
 
 A new Flutter application.
 
