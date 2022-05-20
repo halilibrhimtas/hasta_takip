@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "275288379615",
+    "project_id": "hastakayit-ae33d",
+    "storage_bucket": "hastakayit-ae33d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275288379615:android:ed06deccca1fc7231e596a",
+        "android_client_info": {
+          "package_name": "com.example.proje_1_hasta_takip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275288379615-u58fkqlgddogq9irs1gren8absfhuumh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proje_1_hasta_takip",
+            "certificate_hash": "7e87925722944625f4e2e71f49cd55681391aecd"
+          }
+        },
+        {
+          "client_id": "275288379615-p8g0ki9hb4ftc7pfmov6279gna7e0ss3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhYuMwRgcx6jaKx9FnmTkC6R5RU9M27JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275288379615-p8g0ki9hb4ftc7pfmov6279gna7e0ss3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
